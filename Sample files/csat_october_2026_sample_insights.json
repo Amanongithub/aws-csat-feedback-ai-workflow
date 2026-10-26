@@ -1,0 +1,133 @@
+{
+  "source_file": "csat_october_2026_sample.csv",
+  "processed_at": "2026-10-26T08:51:59.978026+00:00",
+  "ai_provider": "OpenRouter",
+  "ai_model": "openrouter/free",
+  "metrics": {
+    "total_responses": 20,
+    "average_rating": 6.4,
+    "satisfied_responses": 9,
+    "satisfaction_threshold": 8,
+    "csat_percentage_rating_8_or_above": 45.0,
+    "rating_distribution": {
+      "9": 4,
+      "4": 2,
+      "8": 3,
+      "3": 2,
+      "10": 2,
+      "7": 2,
+      "2": 1,
+      "6": 2,
+      "5": 1,
+      "1": 1
+    },
+    "engineer_metrics": {
+      "Engineer A": {
+        "average_rating": 8.0,
+        "ticket_count": 5
+      },
+      "Engineer B": {
+        "average_rating": 3.4,
+        "ticket_count": 5
+      },
+      "Engineer C": {
+        "average_rating": 6.6,
+        "ticket_count": 5
+      },
+      "Engineer D": {
+        "average_rating": 7.6,
+        "ticket_count": 5
+      }
+    },
+    "organization_metrics": {
+      "Northstar Insurance": {
+        "average_rating": 6.5,
+        "ticket_count": 4
+      },
+      "Maple Shield Insurance": {
+        "average_rating": 7.25,
+        "ticket_count": 4
+      },
+      "Pioneer Mutual": {
+        "average_rating": 6.75,
+        "ticket_count": 4
+      },
+      "Cedar Peak Assurance": {
+        "average_rating": 7.25,
+        "ticket_count": 4
+      },
+      "Harbourview Benefits": {
+        "average_rating": 4.25,
+        "ticket_count": 4
+      }
+    }
+  },
+  "ai_insights": {
+    "overall_sentiment": "Mixed",
+    "sentiment_summary": "Average rating 6.4 (neutral‑mixed) with strong resolutions and communication from some engineers, but recurring delays, insufficient updates, and unresolved tickets drive lower scores.",
+    "key_positive_themes": [
+      "Clear communication and proactive updates",
+      "Quick and accurate troubleshooting",
+      "Professional and friendly engineer demeanor"
+    ],
+    "key_complaint_themes": [
+      "Delayed response times and slow resolution",
+      "Insufficient communication and lack of status updates",
+      "Repeated effort and need to re‑provide information",
+      "Escalations required due to unresolved issues"
+    ],
+    "improvement_recommendations": [
+      "Standardize first‑response and resolution SLAs to reduce delays",
+      "Implement consistent communication cadence with clear next steps",
+      "Enhance handoff processes to avoid confusion and repeat work",
+      "Monitor and coach engineers with low average ratings (e.g., Engineer B) on timely updates"
+    ],
+    "urgent_issues": [
+      "Engineer B’s low performance and multiple unresolved tickets",
+      "Harbourview Benefits tickets with ratings 1‑2 and open issues",
+      "Escalation and delay patterns across several organizations"
+    ],
+    "engineer_insights": [
+      {
+        "engineer": "Engineer A",
+        "observation": "Highest average rating (8.0) with feedback highlighting excellent troubleshooting, clear communication, professional support, and strong follow‑through."
+      },
+      {
+        "engineer": "Engineer B",
+        "observation": "Lowest average rating (3.4) and multiple complaints about slow response, unresolved issues, need to repeat information, and poor handoff."
+      },
+      {
+        "engineer": "Engineer C",
+        "observation": "Average rating 6.6; mixed feedback praising accurate troubleshooting and responsiveness but also noting communication gaps and delayed fixes."
+      },
+      {
+        "engineer": "Engineer D",
+        "observation": "Average rating 7.6; generally positive for quick resolution and friendly support, though occasional notes about infrequent status updates."
+      }
+    ],
+    "organization_insights": [
+      {
+        "organization": "Northstar Insurance",
+        "observation": "Average rating 6.5; mixed experience with strong performance from Engineer A but issues when Engineer B handled tickets (low ratings, unresolved)."
+      },
+      {
+        "organization": "Maple Shield Insurance",
+        "observation": "Average rating 7.25; generally positive with fast troubleshooting but some tickets cite delayed responses."
+      },
+      {
+        "organization": "Pioneer Mutual",
+        "observation": "Average rating 6.75; mixed, with high ratings from Engineer D and lower ratings from Engineer B."
+      },
+      {
+        "organization": "Cedar Peak Assurance",
+        "observation": "Average rating 7.25; mostly positive resolutions but one ticket reported a delayed fix and escalation."
+      },
+      {
+        "organization": "Harbourview Benefits",
+        "observation": "Average rating 4.25; lowest overall due to communication problems, unresolved tickets, and low ratings, though one recent ticket was highly positive."
+      }
+    ]
+  },
+  "records_analyzed_by_ai": 20,
+  "total_valid_records": 20
+}

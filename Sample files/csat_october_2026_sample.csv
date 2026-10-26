@@ -1,0 +1,21 @@
+customer_name,ticket_number,organization,engineer,rating,feedback,ticket_date,month
+Customer A,INC-2026-1001,Northstar Insurance,Engineer A,9,Excellent troubleshooting and clear communication throughout the ticket.,2026-10-02,2026-10
+Customer B,INC-2026-1002,Maple Shield Insurance,Engineer B,4,The response took too long and I had to follow up several times.,2026-10-03,2026-10
+Customer C,INC-2026-1003,Pioneer Mutual,Engineer C,8,Helpful support and a clear explanation of the resolution.,2026-10-04,2026-10
+Customer D,INC-2026-1004,Northstar Insurance,Engineer B,3,The issue is still unresolved after multiple updates.,2026-10-05,2026-10
+Customer E,INC-2026-1005,Cedar Peak Assurance,Engineer D,10,Very quick resolution and proactive communication. Great experience.,2026-10-06,2026-10
+Customer F,INC-2026-1006,Maple Shield Insurance,Engineer A,7,"The solution worked, although the initial response could have been faster.",2026-10-07,2026-10
+Customer G,INC-2026-1007,Harbourview Benefits,Engineer C,2,We received little communication and the ticket took too long to close.,2026-10-08,2026-10
+Customer H,INC-2026-1008,Pioneer Mutual,Engineer D,9,The engineer understood the problem quickly and explained each step.,2026-10-09,2026-10
+Customer I,INC-2026-1009,Cedar Peak Assurance,Engineer B,6,"The issue was fixed, but the handoff between teams was confusing.",2026-10-10,2026-10
+Customer J,INC-2026-1010,Northstar Insurance,Engineer A,8,Professional support and a useful workaround while the fix was prepared.,2026-10-11,2026-10
+Customer K,INC-2026-1011,Harbourview Benefits,Engineer D,5,"The answer was helpful, but it took several messages to clarify the request.",2026-10-12,2026-10
+Customer L,INC-2026-1012,Maple Shield Insurance,Engineer C,10,"Fast, accurate troubleshooting. The engineer kept us informed.",2026-10-13,2026-10
+Customer M,INC-2026-1013,Pioneer Mutual,Engineer B,3,We had to repeat the same information and the problem returned.,2026-10-14,2026-10
+Customer N,INC-2026-1014,Cedar Peak Assurance,Engineer A,9,Clear ownership and excellent follow-through until the issue was resolved.,2026-10-15,2026-10
+Customer O,INC-2026-1015,Northstar Insurance,Engineer D,6,"Resolution was acceptable, but status updates were not frequent enough.",2026-10-16,2026-10
+Customer P,INC-2026-1016,Harbourview Benefits,Engineer B,1,The issue remains open and we have not received a clear next step.,2026-10-18,2026-10
+Customer Q,INC-2026-1017,Maple Shield Insurance,Engineer D,8,Support was friendly and the explanation helped us prevent recurrence.,2026-10-19,2026-10
+Customer R,INC-2026-1018,Cedar Peak Assurance,Engineer C,4,The fix was delayed and we had to escalate to get an update.,2026-10-20,2026-10
+Customer S,INC-2026-1019,Pioneer Mutual,Engineer A,7,Good technical knowledge; a faster first response would improve the experience.,2026-10-21,2026-10
+Customer T,INC-2026-1020,Harbourview Benefits,Engineer C,9,"The engineer was responsive, thorough, and confirmed the fix with us.",2026-10-22,2026-10
